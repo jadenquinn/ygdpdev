@@ -1,0 +1,52 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Powahtab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powahtab"
+    },
+    {
+      "name": "Energyblock1",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energyblock_1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabpowahtab": "Powah!",
+      "block.powah.energyblock_1": "Energyblock 1"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "powah",
+    "modName": "You Got Da Powah",
+    "version": "0.125",
+    "description": "A JadensWebMC Test mod for energy \u0026 machines! Stay tuned and keep Dreaming!",
+    "author": "Jaden LeMieux (JadensWebMC), MinKun (MaskedRPM)",
+    "websiteURL": "http://jadenswebmc.us.to/jadensmods/",
+    "license": "Direct",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "untitled",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "credits": "The key people: Jaden LeMieux (JadensWebMC), MinKun (MaskedRPM)",
+    "modElementsPackage": "to.us.jadenswebmc.powah",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

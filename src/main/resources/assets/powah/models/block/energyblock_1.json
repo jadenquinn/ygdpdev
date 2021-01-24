@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "powah:blocks/energyblock1",
+    "up": "powah:blocks/energyblock1",
+    "north": "powah:blocks/energyblock1",
+    "east": "powah:blocks/energyblock1",
+    "south": "powah:blocks/energyblock1",
+    "west": "powah:blocks/energyblock1",
+    "particle": "powah:blocks/energyblock1"
+  }
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Direct"
+
+[[mods]]
+modId="powah"
+version="0.125"
+displayName="You Got Da Powah"
+credits="The key people: Jaden LeMieux (JadensWebMC), MinKun (MaskedRPM)"
+displayURL="http://jadenswebmc.us.to/jadensmods/"
+logoFile="logo.png"
+authors="Jaden LeMieux (JadensWebMC), MinKun (MaskedRPM)"
+description='''
+A JadensWebMC Test mod for energy & machines! Stay tuned and keep Dreaming!
+'''
+
+[[dependencies.powah]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
